@@ -1,0 +1,14 @@
+2024-01-15 10:23:45 Failed login attempt from 192.168.1.100 for user john
+2024-01-15 10:24:12 Failed login attempt from 192.168.1.100 for user john
+2024-01-15 10:25:33 Failed login attempt from 192.168.1.100 for user admin
+2024-01-15 10:26:01 Failed login attempt from 192.168.1.100 for user admin
+2024-01-15 10:27:15 Failed login attempt from 192.168.1.100 for user root
+2024-01-15 10:28:42 Failed login attempt from 192.168.1.100 for user admin
+2024-01-15 22:45:30 User mike authenticated successfully from 192.168.1.50 - Off-hours access
+2024-01-15 23:15:22 nmap port scan detected from 10.0.2.50 targeting 10.0.1.0/24
+2024-01-16 02:33:18 User sarah@company.com downloaded 250GB of database export to 203.0.113.50
+2024-01-16 03:12:44 Privilege escalation: User dave executed sudo command successfully
+2024-01-16 05:22:15 Failed login attempt from 203.0.113.75 for user admin
+2024-01-16 05:23:01 Failed login attempt from 203.0.113.75 for user root
+2024-01-16 05:23:45 Failed login attempt from 203.0.113.75 for user john
+2024-01-16 05:24:22 Failed login attempt from 203.0.113.75 for user test
